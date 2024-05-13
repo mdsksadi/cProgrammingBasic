@@ -8,7 +8,7 @@ set(This PrintName)
 project(${This} C CXX)
 
 # Add executable
-add_executable(${This} Sources/main.c)
+add_executable(${This} Sources/veryBasic2.c)
 
 # Include headers directory
 target_include_directories(${This} PUBLIC Headers)
