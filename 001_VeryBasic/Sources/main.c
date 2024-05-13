@@ -4,8 +4,7 @@
 int main()
 {
 
-    printf("Shekh ");
-    printf("Sadi\n");
+    printf("First Name: MD Shekh \nLast Name: Sadi\n");
 
     return 0;
 }
