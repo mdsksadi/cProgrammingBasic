@@ -16,5 +16,4 @@
     - Eclipse
     - Visual Studio
     - Code::Blocks
-    - Visual Studio Code (<font color="green">VSCode</font>)
-    
+    - Visual Studio Code (<font color="green">*VSCode*</font>)
