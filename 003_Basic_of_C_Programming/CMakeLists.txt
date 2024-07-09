@@ -8,7 +8,7 @@ set (This Basic_of_C_Programming)
 project (${This} C CXX)
 
 # Add executable
-add_executable(${This} Sources/001_Print_Rectangle_of_Astericks.c)
+add_executable(${This} Sources/002_Print_Asterisks_Pattern.c)
 
 # Include headers directory
 target_include_directories(${This} PUBLIC Headers) 
