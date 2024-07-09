@@ -8,7 +8,7 @@ set (This Basic_of_C_Programming)
 project (${This} C CXX)
 
 # Add executable
-add_executable(${This} Sources/003_Print_X_Shape.c)
+add_executable(${This} Sources/004_Print_Birth_Year.c)
 
 # Include headers directory
 target_include_directories(${This} PUBLIC Headers) 
